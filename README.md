@@ -26,7 +26,6 @@
 
 ## 📈 GitHub Stats
 ![Lay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x3st&show_icons=true&theme=default)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=0x3st)
 
 ## 🚀 Current Projects
 - [jAIvis] - automatic todo journal with AI assistent
