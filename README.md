@@ -6,7 +6,7 @@
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
 
 ## 📚 About Me
-- Undergraduate student at **School of Management and Economics, CUHK Shenzhen** (SME CUHKSZ)
+- Undergraduate student at CUHK Shenzhen
 - Passionate about Python programming and its applications
 - Currently exploring data analysis, machine learning, and automation
 - Eager to contribute to open-source projects and learn from the community
