@@ -28,7 +28,7 @@
 ![Lay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x3st&show_icons=true&theme=default)  
 
 ## 🚀 Current Projects
-- [jAIvis] - automatic todo journal with AI assistent
+- [FIST] - AI assisted fast, intuitive and sensitive test DAO components.
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%A3%8A-%E5%90%B4-9a6b41353/)
