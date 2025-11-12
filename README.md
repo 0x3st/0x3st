@@ -1,4 +1,4 @@
-# Hey there, I'm Lay Woo! 👋
+# Hey there, I'm William von Shenzhengrad! 👋
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
@@ -12,10 +12,9 @@
 - Eager to contribute to open-source projects and learn from the community
 
 ## 🏻 School Profile
-- **Undergraduate | Quantitative Finance, School of Data Science**  
+- **Undergraduate | Quantitative Finance**  
 *The Chinese University of Hong Kong, Shenzhen*  
 🔹 Focus on interdisciplinary education combining finance, economics, and data science  
-🔹 Member of various coding and analytics student organizations
 
 ## 🛠️ Tech Stack
 | Category          | Technologies                                                                 |
@@ -25,7 +24,7 @@
 | **Concepts**         | Data Analysis, Web Scraping, Machine Learning Basics, Process Automation   |
 
 ## 📈 GitHub Stats
-![Lay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x3st&show_icons=true&theme=default)  
+![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x3st&show_icons=true&theme=default)  
 
 ## 🚀 Current Projects
 - [Nage](https://github.com/0x3st/nage) - AI assisted terminal tool.
