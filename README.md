@@ -1,37 +1,36 @@
-# Hey there, I'm William von Shenzhen! 👋
+# Wu Lei
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+> Undergraduate Student in Quantitative Finance @ CUHK-Shenzhen  
+> Passionate about Data, Finance, and Python.
 
-## 📚 About Me
-- Undergraduate student at CUHK-Shenzhen
-- Passionate about Python programming and its applications
-- Currently exploring data analysis, machine learning, and automation
-- Eager to contribute to open-source projects and learn from the community
+## 👋 Introduction
 
-## 🏻 School Profile
-- **Undergraduate | Quantitative Finance**  
-*The Chinese University of Hong Kong, Shenzhen*  
-🔹 Focus on interdisciplinary education combining finance, economics, and data science  
+I am currently pursuing a degree in **Quantitative Finance** at **The Chinese University of Hong Kong, Shenzhen**. My academic focus lies at the intersection of finance, economics, and data science.
 
-## 🛠️ Tech Stack
-| Category          | Technologies                                                                 |
-|--------------------|-----------------------------------------------------------------------------|
-| **Python Libraries**  | Pandas, NumPy, Matplotlib, Scikit-learn, BeautifulSoup                     |
-| **Tools & Tech**     | Git, GitHub Actions, Jupyter Notebooks, SQL, Markdown                      |
-| **Concepts**         | Data Analysis, Web Scraping, Machine Learning Basics, Process Automation   |
+I love building tools that automate boring tasks and using data to uncover insights in financial markets.
 
-## 📈 GitHub Stats
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x3st&show_icons=true&theme=default)  
+- 🔭 **Working on:** [Nage](https://github.com/0x3st/nage) (AI assisted terminal tool)
+- 🌱 **Learning:** Machine Learning algorithms & Advanced Data Analysis
+- 💬 **Ask me about:** Python, Financial Modeling, and Web Scraping
 
-## 🚀 Current Projects
-- [Nage](https://github.com/0x3st/nage) - AI assisted terminal tool.
+## 💻 Technical Skills
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E7%A3%8A-%E5%90%B4-9a6b41353/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:findmethroughemail@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/laywoooooo)
+| Category | Stack |
+| :--- | :--- |
+| **Languages** | Python, SQL |
+| **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn, BeautifulSoup |
+| **Dev Tools** | Git, GitHub Actions, VS Code, Jupyter Notebooks |
+| **Core Concepts** | Data Analysis, Web Scraping, Process Automation |
 
-> "First, solve the problem. Then, write the code." - John Johnson
+## 📊 Analytics
+
+![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x3st&show_icons=true&theme=default)
+
+## 📬 Connect
+
+- **LinkedIn:** [Wu Lei](https://www.linkedin.com/in/%E7%A3%8A-%E5%90%B4-9a6b41353/)
+- **Twitter/X:** [@0x00LW]([https://twitter.com/laywoooooo](https://x.com/0x00LW))
+- **Email:** [findmethroughemail@gmail.com](mailto:findmethroughemail@gmail.com)
+
+---
+<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
