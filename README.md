@@ -33,4 +33,4 @@ I love building tools that automate boring tasks and using data to uncover insig
 - **Email:** [530@linux.do](mailto:530@linux.do)
 
 ---
-<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
+<p align="center">效法羲和驭天马，志在长空牧群星</p>
