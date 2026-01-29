@@ -24,7 +24,7 @@ I love building tools that automate boring tasks and using data to uncover insig
 
 ## 📊 Analytics
 
-![Lei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0x3st&show_icons=true&theme=default)
+![Stats](./profile/stats.svg)
 
 ## 📬 Connect
 
