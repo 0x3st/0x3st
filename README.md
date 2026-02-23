@@ -3,6 +3,7 @@
 > Undergraduate Student in Quantitative Finance @ CUHK-Shenzhen  
 > Passionate about Data, Finance, and Python with AI.
 > Member of CUHKSZ ITSO Dev Team(SADT)
+> Editor of Oddie.News(偶得新闻)
 
 ## 👋 Introduction
 
@@ -10,7 +11,7 @@ I am currently pursuing a degree in **Quantitative Finance** at **The Chinese Un
 
 I love building tools that automate boring tasks and using data to uncover insights in financial markets.
 
-- 🔭 **Projects:** [Nage](https://github.com/0x3st/nage) (AI assisted terminal tool)
+- 🔭 **Projects:** [Nage](https://github.com/0x3st/nage) (AI assisted terminal tool), [OddieNews](https://github.com/0x3st/oddienews) (An Astro-based daily post).
 - 🌱 **Learning:** Machine Learning algorithms & Advanced Data Analysis
 - 💬 **Ask me about:** Python, Financial Modeling, and Web Scraping
 
