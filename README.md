@@ -1,9 +1,9 @@
 # Wu Lei
 
 > Undergraduate Student in Quantitative Finance @ CUHK-Shenzhen  
-> Passionate about Data, Finance, and Python with AI.
-> Member of CUHKSZ ITSO Dev Team(SADT)
-> Editor of Oddie.News(偶得新闻)
+> Passionate about Data, Finance, and Python with AI.  
+> Member of CUHKSZ ITSO Dev Team(SADT)  
+> Editor of Oddie.News(偶得新闻)  
 
 ## 👋 Introduction
 
