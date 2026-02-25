@@ -29,7 +29,7 @@ I love building tools that automate boring tasks and using data to uncover insig
 
 ## 📬 Connect
 
-- **LinkedIn:** [Wu Lei](https://www.linkedin.com/in/%E7%A3%8A-%E5%90%B4-9a6b41353/)
+- **LinkedIn:** [Wu Lei](https://www.linkedin.com/in/maybe-dr-lei-wu/)
 - **Twitter/X:** [@0x00LW](https://x.com/0x00LW)
 - **Email:** [530@linux.do](mailto:530@linux.do)
 
