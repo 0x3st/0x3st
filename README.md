@@ -31,7 +31,7 @@ I love building tools that automate boring tasks and using data to uncover insig
 
 - **LinkedIn:** [Wu Lei](https://www.linkedin.com/in/maybe-dr-lei-wu/)
 - **Twitter/X:** [@0x00LW](https://x.com/0x00LW)
-- **Email:** [530@linux.do](mailto:leiwu@mit.edu.ci)
+- **Email:** [leiwu@mit.edu.ci](mailto:leiwu@mit.edu.ci)
 
 ---
 <p align="center">效法羲和驭天马，志在长空牧群星</p>
