@@ -10,7 +10,6 @@ I am currently pursuing a degree in **Quantitative Finance** at **The Chinese Un
 
 I love building tools that automate boring tasks and using data to uncover insights in financial markets.
 
-- 🔭 **Projects:** [Nage](https://github.com/0x3st/nage) (AI assisted terminal tool), [OddieNews](https://github.com/0x3st/oddienews) (An Astro-based daily post).
 - 🌱 **Learning:** Machine Learning algorithms & Advanced Data Analysis
 - 💬 **Ask me about:** Python, Financial Modeling, and Web Scraping
 
