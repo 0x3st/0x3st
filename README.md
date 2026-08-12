@@ -1,4 +1,4 @@
-# ı̣ǝןnʍ
+# Lei Wu
 
 > Undergraduate Student in Quantitative Finance @ CUHK-Shenzhen  
 > Member of CUHKSZ ITSO Dev Team(SADT)  
