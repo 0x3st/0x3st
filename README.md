@@ -26,6 +26,8 @@ I love building tools that automate boring tasks and using data to uncover insig
 
 ![Stats](./profile/stats.svg)
 
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/0x3st?lang=zh)](https://ghfind.com/u/0x3st?ref=badge)
+
 ## 📬 Connect
 
 - **LinkedIn:** [Wu Lei](https://www.linkedin.com/in/maybe-dr-lei-wu/)
