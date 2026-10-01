@@ -2,7 +2,6 @@
 
 > Undergraduate Student in Quantitative Finance @ CUHK-Shenzhen  
 > Member of CUHKSZ ITSO Dev Team(SADT)  
-> Editor of Oddie.News(偶得新闻)  
 
 ## 👋 Introduction
 
