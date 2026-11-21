@@ -1,8 +1,8 @@
 # Lei Wu
 
 > Undergraduate Student in Quantitative Finance @ CUHK-Shenzhen  
-> Member of CUHKSZ ITSO Dev Team (SADT)
-> Fan of Bilibili Gaming (BLG), LoL S16 WORLDS CHAMPIONS.
+> Member of CUHKSZ ITSO Dev Team (SADT)  
+> Fan of Bilibili Gaming (BLG), LoL S16 WORLDS CHAMPIONS.  
 
 ## 👋 Introduction
 
