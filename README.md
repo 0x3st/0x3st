@@ -1,26 +1,15 @@
 # Lei Wu
 
 > Undergraduate Student in Quantitative Finance @ CUHK-Shenzhen  
-> Member of CUHKSZ ITSO Dev Team (SADT)  
-> Fan of Bilibili Gaming (BLG), LoL S16 WORLDS CHAMPIONS.  
+> Member of CUHKSZ ITSO Dev Team (SADT)
+> Researcher at Lab 530  
+> Fan of Bilibili Gaming (BLG), LoL S16 WORLDS CHAMPIONS  
 
 ## 👋 Introduction
 
-I am currently pursuing a degree in **Quantitative Finance** at **The Chinese University of Hong Kong, Shenzhen**. My academic focus lies at the intersection of finance, economics, and data science.
+I'm a researcher at Lab 530 and an undergraduate student at CUHKSZ.
 
-I love building tools that automate boring tasks and using data to uncover insights in financial markets.
-
-- 🌱 **Learning:** Machine Learning algorithms & Advanced Data Analysis
-- 💬 **Ask me about:** Python, Financial Modeling, and Web Scraping
-
-## 💻 Technical Skills
-
-| Category | Stack |
-| :--- | :--- |
-| **Languages** | Python, SQL |
-| **Data Science** | Pandas, NumPy, Matplotlib, Scikit-learn, BeautifulSoup |
-| **Dev Tools** | Git, GitHub Actions, VS Code, Jupyter Notebooks |
-| **Core Concepts** | Data Analysis, Web Scraping, Process Automation |
+Also a developer at university's student dev team.
 
 ## 📊 Analytics
 
@@ -31,7 +20,6 @@ I love building tools that automate boring tasks and using data to uncover insig
 ## 📬 Connect
 
 - **LinkedIn:** [Wu Lei](https://www.linkedin.com/in/maybe-dr-lei-wu/)
-- **Twitter/X:** [@0x00LW](https://x.com/0x00LW)
 - **Email:** github@relay.by530.com
 
 ---
