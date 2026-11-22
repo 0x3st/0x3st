@@ -19,7 +19,7 @@ Also a developer at university's student dev team.
 
 ## 📬 Connect
 
-- **LinkedIn:** [Wu Lei](https://www.linkedin.com/in/maybe-dr-lei-wu/)
+- **LinkedIn:** [Lei Wu](www.linkedin.com/in/leiwu-profile)
 - **Email:** github@relay.by530.com
 
 ---
